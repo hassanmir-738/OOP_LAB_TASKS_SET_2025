@@ -2,14 +2,18 @@
 
 # Object-Oriented Programming with C++
 
-**Lab Portfolio — 2nd Semester, BS Software Engineering**
+**Lab Portfolio — 2nd Semester**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-14-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Labs](https://img.shields.io/badge/Labs-14-4C1?style=for-the-badge)
 ![Tasks](https://img.shields.io/badge/Tasks-37%2B-0AA?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
-**Hassan Ali Mir**  ·  `2025-SET-02`  ·  BS Software Engineering
+<br>
+
+<h3>H A S S A N &nbsp; A L I &nbsp; M I R</h3>
+
+<sub>`2025-SET-02` &nbsp;·&nbsp; BS Software Engineering &nbsp;·&nbsp; Object-Oriented Programming</sub>
 
 </div>
 
